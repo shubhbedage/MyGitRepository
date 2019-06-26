@@ -6,7 +6,7 @@ class HelloGit
 
 public static void main(String str[])
 {
-sysout("hello git....");
+system.out.println("hello git....");
 }
 
 }
