@@ -3,10 +3,15 @@ This is my first git...welcome to git...!!!
 
 class HelloGit
 {
+hellogit()
+{
+system.out.println("hello git....welcome");
+}
+
 
 public static void main(String str[])
 {
-system.out.println("hello git....");
+
 }
 
 }
