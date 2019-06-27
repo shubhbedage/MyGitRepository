@@ -19,6 +19,6 @@ public static void main(String str[])
 
 static void myBigmethod()
 {
-sysout("has a method impl")
+system out println("has a method impl")
 
 }
