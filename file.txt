@@ -3,7 +3,7 @@ This is my first git...welcome to git...!!!
 
 class HelloGit
 {
-hellogit()
+static hellogit()
 {
 system.out.println("hello git....welcome");
 }
@@ -11,8 +11,8 @@ system.out.println("hello git....welcome");
 
 public static void main(String str[])
 {
-HelloGit obj=new HelloGit();
-obj.hellogit(); 
+
+hellogit(); 
 }
 
 void myBigmethod()
